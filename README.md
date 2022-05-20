@@ -1,2 +1,2 @@
-# tienda2
+# tienda_react_simplesoft
 Created with CodeSandbox
